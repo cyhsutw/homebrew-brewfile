@@ -22,6 +22,7 @@ brew 'node'
 
 # apps
 cask 'atom'
+cask 'flux'
 cask 'gitup'
 cask 'slack'
 cask 'skype'
