@@ -31,6 +31,7 @@ cask 'skype'
 cask 'macdown'
 cask 'spectacle'
 cask 'appcleaner'
+cask 'eclipse-jee'
 cask 'google-chrome'
 
 # quicklook enhancement
