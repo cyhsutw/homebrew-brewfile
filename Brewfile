@@ -12,6 +12,7 @@ brew 'vim'
 brew 'tmux'
 brew 'tree'
 brew 'wget'
+brew 'gnupg'
 
 # development
 cask 'java'
