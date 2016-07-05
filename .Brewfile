@@ -25,6 +25,7 @@ cask 'atom'
 cask 'gitup'
 cask 'slack'
 cask 'skype'
+cask 'macdown'
 cask 'appcleaner'
 cask 'google-chrome'
 
