@@ -33,6 +33,7 @@ cask 'spectacle'
 cask 'appcleaner'
 cask 'eclipse-jee'
 cask 'google-chrome'
+cask 'the-unarchiver'
 
 # quicklook enhancement
 cask 'qlcolorcode'
