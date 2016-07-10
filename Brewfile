@@ -18,8 +18,7 @@ brew 'gnupg'
 cask 'java'
 brew 'rbenv'
 brew 'ruby-build'
-brew 'python'
-brew 'python3'
+brew 'pyenv'
 brew 'nvm'
 
 # apps
