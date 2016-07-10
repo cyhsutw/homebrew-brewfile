@@ -20,7 +20,6 @@ brew 'rbenv'
 brew 'ruby-build'
 brew 'python'
 brew 'python3'
-brew 'node'
 brew 'nvm'
 
 # apps
