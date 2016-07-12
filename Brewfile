@@ -14,12 +14,15 @@ brew 'tree'
 brew 'wget'
 brew 'gnupg'
 
-# development
+# dev environment
 cask 'java'
 brew 'rbenv'
 brew 'ruby-build'
 brew 'pyenv'
 brew 'nvm'
+
+# package manager
+brew 'carthage'
 
 # apps
 cask 'atom'
