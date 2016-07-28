@@ -8,6 +8,7 @@ tap 'homebrew/science'
 # essentials
 brew 'zsh'
 brew 'git'
+brew 'sbt'
 brew 'vim'
 brew 'tmux'
 brew 'tree'
