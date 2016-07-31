@@ -38,6 +38,7 @@ cask 'spectacle'
 cask 'appcleaner'
 cask 'teamviewer'
 cask 'eclipse-jee'
+cask 'gfxcardstatus'
 cask 'google-chrome'
 cask 'the-unarchiver'
 
