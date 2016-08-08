@@ -46,3 +46,6 @@ cask 'the-unarchiver'
 cask 'qlcolorcode'
 cask 'quicklook-csv'
 cask 'quicklook-json'
+
+# games
+cask 'openemu'
