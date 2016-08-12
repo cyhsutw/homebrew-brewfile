@@ -41,6 +41,7 @@ cask 'eclipse-jee'
 cask 'gfxcardstatus'
 cask 'google-chrome'
 cask 'the-unarchiver'
+cask 'application-loader'
 
 # quicklook enhancement
 cask 'qlcolorcode'
