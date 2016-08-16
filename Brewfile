@@ -14,6 +14,7 @@ brew 'tmux'
 brew 'tree'
 brew 'wget'
 brew 'gnupg'
+brew 'git-flow'
 
 # dev environment
 cask 'java'
