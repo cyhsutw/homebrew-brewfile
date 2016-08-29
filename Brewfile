@@ -15,6 +15,7 @@ brew 'tree'
 brew 'wget'
 brew 'gnupg'
 brew 'git-flow'
+brew 'mercurial'
 
 # dev environment
 cask 'java'
