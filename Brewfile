@@ -13,7 +13,7 @@ brew 'vim'
 brew 'tmux'
 brew 'tree'
 brew 'wget'
-brew 'gnupg'
+brew 'gnupg2'
 brew 'git-flow'
 brew 'mercurial'
 
