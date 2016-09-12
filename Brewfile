@@ -19,9 +19,13 @@ brew 'mercurial'
 
 # dev environment
 cask 'java'
+
 brew 'rbenv'
 brew 'ruby-build'
+
 brew 'pyenv'
+brew 'pyenv-virtualenvwrapper'
+
 brew 'nvm'
 
 # package manager
