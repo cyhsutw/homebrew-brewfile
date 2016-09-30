@@ -1,9 +1,10 @@
 # tap
+tap 'homebrew/core'
+tap 'homebrew/bundle'
+tap 'homebrew/science'
+
 tap 'caskroom/cask'
 tap 'caskroom/versions'
-tap 'homebrew/bundle'
-tap 'homebrew/core'
-tap 'homebrew/science'
 
 # essentials
 brew 'zsh'
