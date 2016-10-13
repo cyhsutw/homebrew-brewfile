@@ -9,6 +9,7 @@ tap 'caskroom/versions'
 # essentials
 brew 'zsh'
 brew 'git'
+brew 'hub'
 brew 'sbt'
 brew 'vim'
 brew 'tmux'
