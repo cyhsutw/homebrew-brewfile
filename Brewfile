@@ -33,6 +33,8 @@ brew 'pyenv-virtualenvwrapper'
 
 brew 'nvm'
 
+brew 'swiftlint'
+
 # package manager
 brew 'carthage'
 
