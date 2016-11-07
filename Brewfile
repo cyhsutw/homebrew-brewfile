@@ -21,6 +21,7 @@ brew 'httpie'
 brew 'gnupg21'
 brew 'git-flow'
 brew 'mercurial'
+brew 'terminal-notifier'
 
 # dev environment
 cask 'java'
