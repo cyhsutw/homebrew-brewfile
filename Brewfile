@@ -24,6 +24,8 @@ brew 'mercurial'
 brew 'terminal-notifier'
 
 # dev environment
+cask 'docker'
+
 cask 'java'
 
 brew 'rbenv'
