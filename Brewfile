@@ -59,6 +59,7 @@ cask 'eclipse-jee'
 cask 'gfxcardstatus'
 cask 'google-chrome'
 cask 'the-unarchiver'
+caks 'veertu-desktop'
 cask 'application-loader'
 
 # quicklook enhancement
