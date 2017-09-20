@@ -20,6 +20,7 @@ brew 'watch'
 brew 'heroku'
 brew 'httpie'
 brew 'gnupg21'
+brew 'pinentry-mac'
 brew 'git-flow'
 brew 'mercurial'
 brew 'terminal-notifier'
@@ -60,13 +61,9 @@ cask 'eclipse-jee'
 cask 'gfxcardstatus'
 cask 'google-chrome'
 cask 'the-unarchiver'
-caks 'veertu-desktop'
 cask 'application-loader'
 
 # quicklook enhancement
 cask 'qlcolorcode'
 cask 'quicklook-csv'
 cask 'quicklook-json'
-
-# games
-cask 'openemu'
