@@ -1,7 +1,6 @@
 # tap
 tap 'homebrew/core'
 tap 'homebrew/bundle'
-tap 'homebrew/science'
 
 tap 'caskroom/cask'
 tap 'caskroom/versions'
@@ -18,7 +17,7 @@ brew 'wget'
 brew 'watch'
 brew 'heroku'
 brew 'httpie'
-brew 'gnupg21'
+brew 'gnupg'
 brew 'pinentry-mac'
 brew 'git-flow'
 brew 'mercurial'
