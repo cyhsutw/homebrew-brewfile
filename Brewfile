@@ -57,10 +57,8 @@ cask 'handbrake'
 cask 'spectacle'
 cask 'appcleaner'
 cask 'teamviewer'
-cask 'gfxcardstatus'
 cask 'google-chrome'
 cask 'the-unarchiver'
-cask 'application-loader'
 
 # quicklook enhancement
 cask 'qlcolorcode'
