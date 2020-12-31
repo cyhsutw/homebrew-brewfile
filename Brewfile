@@ -24,25 +24,16 @@ brew 'mercurial'
 brew 'terminal-notifier'
 
 # dev environment
-cask 'docker'
-
 cask 'java'
 
 brew 'rbenv'
 brew 'ruby-build'
 
 brew 'pyenv'
-brew 'pyenv-virtualenvwrapper'
 
 brew 'nvm'
 
-brew 'swiftlint'
-
-# package manager
-brew 'carthage'
-
 # apps
-cask 'atom'
 cask 'flux'
 cask 'gitup'
 cask 'slack'
@@ -57,8 +48,8 @@ cask 'handbrake'
 cask 'spectacle'
 cask 'appcleaner'
 cask 'teamviewer'
-cask 'google-chrome'
 cask 'the-unarchiver'
+cask 'visual-studio-code'
 
 # quicklook enhancement
 cask 'qlcolorcode'
