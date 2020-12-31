@@ -18,7 +18,6 @@ brew 'heroku'
 brew 'httpie'
 brew 'gnupg'
 brew 'pinentry-mac'
-brew 'git-flow'
 brew 'mercurial'
 brew 'terminal-notifier'
 
