@@ -2,14 +2,13 @@
 tap 'homebrew/core'
 tap 'homebrew/bundle'
 
-tap 'caskroom/cask'
-tap 'caskroom/versions'
+tap 'homebrew/cask'
+tap 'homebrew/cask-versions'
 
 # essentials
 brew 'zsh'
 brew 'git'
 brew 'hub'
-brew 'mas'
 brew 'vim'
 brew 'tmux'
 brew 'tree'
