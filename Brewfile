@@ -14,18 +14,13 @@ brew 'tmux'
 brew 'tree'
 brew 'wget'
 brew 'watch'
-brew 'heroku'
-brew 'httpie'
 brew 'gnupg'
 brew 'pinentry-mac'
-brew 'mercurial'
 brew 'terminal-notifier'
 
 # dev environment
 brew 'rbenv'
 brew 'ruby-build'
-
-brew 'pyenv'
 
 brew 'nvm'
 
