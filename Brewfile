@@ -23,8 +23,6 @@ brew 'mercurial'
 brew 'terminal-notifier'
 
 # dev environment
-cask 'java'
-
 brew 'rbenv'
 brew 'ruby-build'
 
