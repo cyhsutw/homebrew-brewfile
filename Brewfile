@@ -2,14 +2,12 @@
 tap 'homebrew/core'
 tap 'homebrew/bundle'
 
-tap 'homebrew/cask'
-tap 'homebrew/cask-versions'
-
 # essentials
 brew 'zsh'
+brew 'gh'
 brew 'git'
-brew 'hub'
 brew 'vim'
+brew 'tldr'
 brew 'tmux'
 brew 'tree'
 brew 'wget'
@@ -22,7 +20,7 @@ brew 'terminal-notifier'
 brew 'rbenv'
 brew 'ruby-build'
 
-brew 'nvm'
+brew 'go'
 
 # apps
 cask 'flux'
@@ -33,7 +31,6 @@ cask 'firefox'
 cask 'iina'
 cask 'licecap'
 cask 'macdown'
-cask 'overkill'
 cask 'grammarly'
 cask 'handbrake'
 cask 'spectacle'
