@@ -1,5 +1,4 @@
 # tap
-tap 'homebrew/core'
 tap 'homebrew/bundle'
 
 # essentials
@@ -12,8 +11,7 @@ brew 'tmux'
 brew 'tree'
 brew 'wget'
 brew 'watch'
-brew 'gnupg'
-brew 'pinentry-mac'
+brew 'imagemagick'
 brew 'terminal-notifier'
 
 # dev environment
@@ -25,18 +23,14 @@ brew 'go'
 # apps
 cask 'flux'
 cask 'gitup'
-cask 'slack'
-cask 'skype'
-cask 'firefox'
 cask 'iina'
+cask 'keka'
+cask 'cursor'
 cask 'licecap'
 cask 'macdown'
-cask 'grammarly'
 cask 'handbrake'
-cask 'spectacle'
+cask 'rectangle'
 cask 'appcleaner'
-cask 'teamviewer'
-cask 'the-unarchiver'
 cask 'visual-studio-code'
 
 # quicklook enhancement
